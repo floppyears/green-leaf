@@ -1,6 +1,6 @@
 name = A fantasy name
 description = Tableless multi-column theme designed for blogs.
-screenshot = screen_shot.gif
+screenshot = screenshot.png
 version = 0.1
 core = 6.x
 engine = phptemplate
