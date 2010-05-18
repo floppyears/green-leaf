@@ -57,6 +57,9 @@ a:hover {
 	background-color: #7AA02C;
 	color: #FFF;
 }
+.breadcrumbs a, .breadcrumbs a:visited {
+    color: #fff;
+}
 	
 .middle {
 	/*float: left;*/
