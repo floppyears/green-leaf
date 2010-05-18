@@ -13,7 +13,6 @@
       <div class="header"> 
         <h1><?php print $site_name;?></h1>
         <?php print $header; ?>
-        <!--<img src="<?php print $logo; ?>" alt="green leaf logo" />-->
       </div>
       <div class="breadcrumbs"><?php print $breadcrumb; ?></div>
       <div id="right">

@@ -6,7 +6,6 @@ core = 6.x
 engine = phptemplate
 base theme = garland
 
-regions[left] = Left sidebar
 regions[right] = Right sidebar
 regions[content] = Content
 regions[header] = Header
