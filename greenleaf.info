@@ -12,4 +12,4 @@ regions[content] = Content
 regions[header] = Header
 regions[footer] = Footer
 
-stylesheets[all][] = greenleaf.css
+stylesheets[] = greenleaf.css
