@@ -9,9 +9,9 @@
 
 <body>
 <div id="wrap">
-  <div id="top"></div>
     <div id="content">
       <div class="header"> 
+        <h1><?php print $site_name;?></h1>
         <?php print $header; ?>
         <!--<img src="<?php print $logo; ?>" alt="green leaf logo" />-->
       </div>
