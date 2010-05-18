@@ -4,6 +4,7 @@ screenshot = screenshot.png
 version = 0.1
 core = 6.x
 engine = phptemplate
+base theme = garland
 
 regions[left] = Left sidebar
 regions[right] = Right sidebar
@@ -11,4 +12,4 @@ regions[content] = Content
 regions[header] = Header
 regions[footer] = Footer
 
-stylesheets[all][] = style.css
+stylesheets[all][] = greenleaf.css
