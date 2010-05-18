@@ -13,15 +13,15 @@
     <div id="content">
       <div class="header"> 
         <?php print $header; ?>
-        <h2><?php print $logo; ?></h2>
+        <!--<img src="<?php print $logo; ?>" alt="green leaf logo" />-->
       </div>
       <div class="breadcrumbs"><?php print $breadcrumb; ?></div>
+      <div id="right">
+        <?php print $right;?>
+      </div>
       <div class="middle">
         <h2><?php print $title; ?></h2>
         <?php print $content; ?>
-      </div>
-      <div class="right">
-        <?php print $right;?>
       </div>
       
         <div id="clear">Content for  id "clear" Goes Here</div>
